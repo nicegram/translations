@@ -17,6 +17,13 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "Animated Stickers";
 "NiceFeatures.useBackCam" = "Use Rear camera (Round Videos)";
 
+"NiceFeatures.Folders.Header" = "FOLDERS";
+"NiceFeatures.Folders.TgFolders" = "Folders at bottom";
+"NiceFeatures.Folders.TgFolders.Notice" = "iOS-styled folder list at the bottom instead";
+
+"NiceFeatures.RoundVideos.Header" = "Round Videos";
+"NiceFeatures.RoundVideos.UseRearCamera" = "Start with rear camera";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Save to Cloud";
 
