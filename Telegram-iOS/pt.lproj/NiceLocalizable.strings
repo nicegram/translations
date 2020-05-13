@@ -17,6 +17,13 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "Stickers Animados";
 "NiceFeatures.useBackCam" = "Usar a câmera traseira (vídeo mensagens)";
 
+"NiceFeatures.Folders.Header" = "PASTAS";
+"NiceFeatures.Folders.TgFolders" = "Pastas embaixo";
+"NiceFeatures.Folders.TgFolders.Notice" = "lista de pastas com estilo iOS";
+
+"NiceFeatures.RoundVideos.Header" = "Vídeo mensagens";
+"NiceFeatures.RoundVideos.UseRearCamera" = "Iniciar com a câmera traseira";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Salvar na Nuvem";
 

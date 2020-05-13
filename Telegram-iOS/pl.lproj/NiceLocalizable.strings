@@ -17,6 +17,13 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "Animowane naklejki";
 "NiceFeatures.useBackCam" = "Użyj tylnej kamery (okrągłe wideo)";
 
+"NiceFeatures.Folders.Header" = "FOLDERY";
+"NiceFeatures.Folders.TgFolders" = "Foldery na dole";
+"NiceFeatures.Folders.TgFolders.Notice" = "Lista folderów w stylu iOS";
+
+"NiceFeatures.RoundVideos.Header" = "OKRĄGŁE WIDEO";
+"NiceFeatures.RoundVideos.UseRearCamera" = "Uruchom z tylną kamerą";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Zapisz w chmurze";
 
