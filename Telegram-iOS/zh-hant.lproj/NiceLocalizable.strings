@@ -17,6 +17,13 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "動態貼圖";
 "NiceFeatures.useBackCam" = "使用後置鏡頭 (圓形影片)";
 
+"NiceFeatures.Folders.Header" = "資料夾";
+"NiceFeatures.Folders.TgFolders" = "底部資料夾";
+"NiceFeatures.Folders.TgFolders.Notice" = "iOS 風格資料夾列表";
+
+"NiceFeatures.RoundVideos.Header" = "圓形影片";
+"NiceFeatures.RoundVideos.UseRearCamera" = "開啟後置鏡頭";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "轉傳到儲存的訊息";
 
