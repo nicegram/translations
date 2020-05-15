@@ -127,13 +127,13 @@
 "Gmod.Restricted" = "Você não pode enviar mensagens no Modo de Pré-visualização.";
 "Gmod.Unavailable" = "Modo de Pré-visualização Indisponível";
 "Gmod.Disable.Notice" = "A visibilidade da última visualização será definida para «%1»";
-"Gmod" = "Modo de Pré-visualização";
-"Gmod.Enable" = "Ativar modo de pré-visualização?";
+"Gmod" = "Modo Pré-visualização";
+"Gmod.Enable" = "Ativar modo pré-visualização?";
 "Gmod.Disable" = "Desativar modo de pré-visualização?";
 "Gmod.Notice" = "Seu status online será ocultado para todos pelas configurações de privacidade do Telegram.\nO aplicativo irá mostrar um aviso se você estiver entrando em um chat privado.\nSeu status online pode ser revelado se você enviar ou digitar QUALQUER mensagem.";
 
 "SendWithKb" = "Enviar usando o botão «Enter»";
-"NiceFeatures.ShowGmodIcon" = "Mostrar ícone no modo pré-visualização";
+"NiceFeatures.ShowGmodIcon" = "Mostrar ícone do modo pré-visualização";
 "Gmod.OpenChatQ" = "Abrir Chat?";
 "Gmod.OpenChatNotice" = "O chat será marcado como \"lido\", mas você pode pré-visualizar o chat com um toque longo.(3D Touch)";
 "Gmod.OpenChatBtn" = "Sim, abra o chat";
