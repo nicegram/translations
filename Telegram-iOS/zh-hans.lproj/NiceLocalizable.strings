@@ -22,7 +22,7 @@
 "NiceFeatures.Folders.TgFolders.Notice" = "iOS 风格分组列表";
 
 "NiceFeatures.RoundVideos.Header" = "圆形视频";
-"NiceFeatures.RoundVideos.UseRearCamera" = "使用后置相机录制视频";
+"NiceFeatures.RoundVideos.UseRearCamera" = "使用后置相机";
 
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "保存到收藏夹";
