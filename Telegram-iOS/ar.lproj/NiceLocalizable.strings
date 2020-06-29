@@ -15,28 +15,66 @@
 "NiceFeatures.Tabs.ShowContacts" = "إظهار تبويب جهات الاتصال";
 "NiceFeatures.ChatScreen.Header" = "شاشه الدردشة";
 "NiceFeatures.ChatScreen.AnimatedStickers" = "ملصقات متحركة";
+"NiceFeatures.useBackCam" = "استخدام الكاميرا الخلفية (فيديوهات مستديرة)";
+
+"NiceFeatures.Folders.Header" = "المجلدات";
+"NiceFeatures.Folders.TgFolders" = "المجلدات في الأسفل";
+"NiceFeatures.Folders.TgFolders.Notice" = "قائمة مجلدات على غرار iOS";
+
+"NiceFeatures.RoundVideos.Header" = "فيديوهات مستديرة";
+"NiceFeatures.RoundVideos.UseRearCamera" = "البدء بالكاميرا الخلفية";
 
 /*Save to Cloud*/
-"Chat.SaveToCloud" = "حفظ إلى سحابه";
+"Chat.SaveToCloud" = "الحفظ في السحابة";
 
 /*Open Pin*/
 "Chat.OpenPin" = "عرض دبوس";
 "ChatFilter.Admin" = "المدير";
+"NiceFeatures.Notifications.HideNotifyAccount" = "إخفاء الحساب في الاشعارات";
 "NiceFeatures.Notifications.Fix" = "تعطيل إعلامات الإغلاق الاضطراري للتطبيقات";
+"NiceFeatures.Filters.Header" = "الفلاتر (التبويبات)";
+"NiceFeatures.Filters.ShowBadge" = "إظهار الشارات (الفلاتر)";
+"NiceFeatures.UseClassicInfoUi" = "استخدام واجهة المستخدم معلومات الدردشة الكلاسيكية";
 
 /*Common*/
-"Common.ExitNow" = "الإغلاق الآن";
+"Common.ExitNow" = "الخروج الآن";
 "Common.Later" = "لاحقاً";
 "Common.RestartRequired" = "إعادة التشغيل مطلوبة";
+"NiceFeatures.Tabs.ShowNames" = "إظهار أسماء التبويب";
+"Chat.ForwardAsCopy" = "إعادة الإرسال كنسخة";
 
 /*Folder*/
 "Folder.DefaultName" = "المجلد";
-"Folder.New" = "إضافة مجلد";
+"Folder.New" = "مجلد جديد";
 "Folder.Created" = "تم إنشاء المجلد";
+"Folder.AddToExisting" = "إضافة إلى مجلد جديد";
 "Folder.Updated" = "تم تحديث المجلد";
 "Folder.Create" = "إنشاء مجلد...";
 "Folder.Create.Name" = "إسم المجلد";
 "Folder.Create.Placeholder" = "المجلد...";
-"NiceFeatures.Browser.UseBrowser" = "فتح في المتصفح";
+"Folder.LimitExceeded" = "عفوًا، لا يمكنك إنشاء أكثر من 3 مجلدات مخصصة.\nالمزيد من المجلدات متوفرة في Premium.";
+"NiceFeatures.HideNumber" = "إخفاء الهاتف في الإعدادات";
+
+/*NGWeb*/
+"NGWeb.Blocked" = "غير متوفر في Nicegram ويرجع السبب لقواعد AppStore التوجيهية";
+
+/*Browser*/
+/*Please, Go to «Data & Storage» to configure default browser*/
+"NiceFeatures.Use.DataStorage" = "رجاءً، استخدم «%1» لتكوين المتصفح الافتراضي";
+"NiceFeatures.Browser.Header" = "عناوين URLs";
+"NiceFeatures.Browser.UseBrowser" = "فتح الروابط في المتصفح";
 "ChatFilter.Missed" = "فائتة";
-"Premium.Missed" = "أخبرني لدى ورود رسائل جديدة";
+
+/*Premium*/
+"Premium.Title" = "Premium";
+"Premium.UnlimitedPins.Header" = "دردشات مثبتة غير محدودة";
+"Premium.SyncPins" = "مزامنة الدردشات المثبتة";
+"Premium.Missed.Header" = "الرسائل الفائتة";
+"Premium.Missed" = "أخبرني عند ورود رسائل جديدة";
+"Folder.DeleteAsk" = "حذف المجلد";
+"Folder.NeedPremium" = "هذا المجلد متاح فقط مع Premium. يمكنك الحصول على Premium أو حذف المجلد عن طريق السحب.";
+"Common.SupportChatUsername" = "nicegramchat";
+"Common.FAQUrl" = "https://nicegram.app/faq/";
+"Common.FAQ.Button" = "الأسئلة الشاسعة بخصوص Nicegram";
+"IAP.Premium.Title" = "Premium";
+"IAP.Premium.Subtitle" = "ميزات فريدة لا يمكنك رفضها!";
