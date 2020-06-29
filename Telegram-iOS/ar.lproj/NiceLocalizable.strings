@@ -73,13 +73,17 @@
 "Premium.Title" = "Premium";
 "Premium.UnlimitedPins.Header" = "دردشات مثبتة غير محدودة";
 "Premium.SyncPins" = "مزامنة الدردشات المثبتة";
+"Premium.SyncPins.Notice.ON" = "إذا قمت بتغيير دردشات مثبتة في عميل آخر، فإنها ستتغير في Nicegram.";
+"Premium.SyncPins.Notice.OFF" = "إذا قمت بتفيير دردشات مثبتة في عميل آخر، فإنها لن تتغير في Nicegram.";
 "Premium.Missed.Header" = "الرسائل الفائتة";
 "Premium.Missed" = "أخبرني عند ورود رسائل جديدة";
+"Premium.Missed.Notice" = "عند فتح التطبيق بعد تأخير طويل (النوم والدراسة وما إلى ذلك)، سيقوم Nicegram بإعلامك بالرسائل والإشارات الخاصة الغير المقروءة.";
 "Folder.DeleteAsk" = "حذف المجلد";
 "Folder.NeedPremium" = "هذا المجلد متاح فقط مع Premium. يمكنك الحصول على Premium أو حذف المجلد عن طريق السحب.";
 "Common.SupportChatUsername" = "nicegramchat";
 "Common.FAQUrl" = "https://nicegram.app/faq/";
 "Common.FAQ.Button" = "الأسئلة الشاسعة بخصوص Nicegram";
+"Common.FAQ.Intro" = "يرجى أن يكون في علمك بأن دعم Nicegram يتم بواسطة الطور والمجتمع فقط.\n\nأولًا، ألقى نظرة على الأسئلة الشاسعة بخصوص Nicegram: يتضمن نصائح مهمة في استكشاف الأخطاء وإجابات على معظم الأسئلة.";
 "IAP.Premium.Title" = "Premium";
 "IAP.Premium.Subtitle" = "ميزات فريدة لا يمكنك رفضها!";
 "IAP.Premium.Features" = "مجلدات غير محدودة ودردشات مثبتة\nترجمة سريعة للرسائل\nفلترة الرسائل الفائتة وإدارة التبويبات\nملخص «الرسائل الجديدة» عند تشغيل التطبيق";
@@ -91,9 +95,11 @@
 "IAP.Common.ValidateError" = "عفوًا، لا يمكن التحقق من صحة عملة الشراء الخاص بك.";
 "Premium.OnetapTranslate" = "زر الترجمة بسرعة";
 "Premium.IgnoreTranslate.Title" = "اللغات المتجاهلة";
+"Premium.IgnoreTranslate.Header" = "سيحاول التطبيق الكشف عن لغة كل رسالة، زر الترجمة السريعة سيتم تعطيله بالنسبة للغات التي تختارها أسفله.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "إدارة التبويبات";
+"ManageFilters.Header" = "تكوين الفلاتر المتاحة";
 
 "Messages.Translate" = "ترجمة";
 "Messages.UndoTranslate" = "التراجع عن الترجمة";
@@ -115,6 +121,7 @@
 
 "NiceFeatures.RestoreSettings.Confirm" = "هل أنت متأكد من أنك تودّ استعادة المجلدات والإعدادت من الملف؟\n⚠️سيتم تجاهل البيانات الحالية";
 "NiceFeatures.RestoreSettings.Done" = "تمت استعادة المجلدات والإعدادات بنجاح";
+"NiceFeatures.RestoreSettings.Error" = "خطأ في استعادة الإعدادت. قد يكون الملف تالفًا";
 
 /*Preview Mode*/
 "Gmod.Restricted" = "لا يمكنك إرسال رسائل في وضع المعاينة.";
