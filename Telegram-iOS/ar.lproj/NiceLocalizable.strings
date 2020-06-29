@@ -1,16 +1,20 @@
+"AppName" = "Nicegram";
 
 /*ChatFilter*/
 "ChatFilter.Bots" = "السير";
 "ChatFilter.Channels" = "القنوات";
 "ChatFilter.Private" = "المستخدمين";
 "ChatFilter.Groups" = "مجموعات";
-"ChatFilter.Unread" = "غير المقروءه";
-"ChatFilter.Unmuted" = "اونموتيد";
+"ChatFilter.Unread" = "غير مقروءه";
+"ChatFilter.Unmuted" = "إلغاء الكتم";
 "ChatFilter.Favourites" = "المفضله";
-"NiceFeatures.Tabs.Header" = "علامات التبويب";
-"NiceFeatures.Tabs.ShowContacts" = "إظهار علامة التبويب جات الاتصال";
+
+/*Nice Features*/
+"NiceFeatures.Title" = "Nicegram";
+"NiceFeatures.Tabs.Header" = "التبويبات";
+"NiceFeatures.Tabs.ShowContacts" = "إظهار تبويب جهات الاتصال";
 "NiceFeatures.ChatScreen.Header" = "شاشه الدردشة";
-"NiceFeatures.ChatScreen.AnimatedStickers" = "ملصقات الرسوم المتحركة";
+"NiceFeatures.ChatScreen.AnimatedStickers" = "ملصقات متحركة";
 
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "حفظ إلى سحابه";
