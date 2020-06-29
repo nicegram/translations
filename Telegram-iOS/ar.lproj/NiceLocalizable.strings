@@ -78,3 +78,40 @@
 "Common.FAQ.Button" = "الأسئلة الشاسعة بخصوص Nicegram";
 "IAP.Premium.Title" = "Premium";
 "IAP.Premium.Subtitle" = "ميزات فريدة لا يمكنك رفضها!";
+"IAP.Premium.Features" = "مجلدات غير محدودة ودردشات مثبتة\nترجمة سريعة للرسائل\nفلترة الرسائل الفائتة وإدارة التبويبات\nملخص «الرسائل الجديدة» عند تشغيل التطبيق";
+"IAP.Premium.Activated" = "تم تفعيل Premium!";
+"IAP.Common.Restore" = "استعادة عمليات الشراء";
+"IAP.Common.CantPay" = "عفوًا، ولكنك لا تستطيع القيام بعمليات الشراء بسبب قيود في جهازك أو حسابك.";
+"IAP.Common.ErrorFetch" = "عفوًا، لا يمكن جلب عمليات الشراء من App Store.";
+"IAP.Common.Congrats" = "مبروك!";
+"IAP.Common.ValidateError" = "عفوًا، لا يمكن التحقق من صحة عملة الشراء الخاص بك.";
+"Premium.OnetapTranslate" = "زر الترجمة بسرعة";
+"Premium.IgnoreTranslate.Title" = "اللغات المتجاهلة";
+
+/*Manage Filters*/
+"ManageFilters.Title" = "إدارة التبويبات";
+
+"Messages.Translate" = "ترجمة";
+"Messages.UndoTranslate" = "التراجع عن الترجمة";
+"Messages.TranslateError" = "عفوًا، الترجمة غير متوفرة.";
+
+/*NG Lab Registration Date*/
+"NGLab.RegDate.Btn" = "الحصول على تاريخ التسجيل";
+"NGLab.RegDate.Title" = "تاريخ التسجيل";
+"NGLab.RegDate.Notice" = "هذا تاريخ تقريبي";
+"NGLab.RegDate.MenuItem" = "مسجّل";
+"NGLab.RegDate.FetchError" = "عذرًا، لا يمكن الحصول على تاريخ التسجيل.";
+
+/*Backup Settings*/
+"NiceFeatures.BackupIcloud" = "مزامنة الإعدادت والمجلدات مع iCloud";
+"NiceFeatures.BackupSettings" = "إعدادت النسخ الاحتياطي والمجلدات";
+"NiceFeatures.BackupSettings.Notice" = "إنشاء ملف النسخ الاحتياطي. انقر على ملف الاستعادة.";
+"NiceFeatures.BackupSettings.Done" = "تم إرسال التسح الاحتياطي إلى الرسائل المحفوظة";
+"NiceFeatures.BackupSettings.Error" = "خطا في إنشاء نسخة الاحتياط";
+
+"NiceFeatures.RestoreSettings.Confirm" = "هل أنت متأكد من أنك تودّ استعادة المجلدات والإعدادت من الملف؟\n⚠️سيتم تجاهل البيانات الحالية";
+"NiceFeatures.RestoreSettings.Done" = "تمت استعادة المجلدات والإعدادات بنجاح";
+
+/*Preview Mode*/
+"Gmod.Restricted" = "لا يمكنك إرسال رسائل في وضع المعاينة.";
+"Gmod.Unavailable" = "وضع المعاينة غير متوفر";
