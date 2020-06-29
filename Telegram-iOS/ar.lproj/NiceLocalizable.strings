@@ -33,6 +33,7 @@
 "NiceFeatures.Notifications.HideNotifyAccount" = "إخفاء الحساب في الاشعارات";
 "NiceFeatures.Notifications.HideNotifyAccountNotice" = "بدلًا من «المستخدم←الحساب» سترى فقط «المستخدم» للحسابات المتعددة فقط.";
 "NiceFeatures.Notifications.Fix" = "تعطيل إعلامات الإغلاق الاضطراري للتطبيقات";
+"NiceFeatures.Notifications.FixNotice" = "مفيد إذا حصلت على إشعارات من دردشات صامتة.\nالرد من الإشعارات، تسميات الحساب، ومعاينات الوسائط لن تكون متاحة.";
 "NiceFeatures.Filters.Header" = "الفلاتر (التبويبات)";
 "NiceFeatures.Filters.Notice" = "حدد عدد التبويبات المخصصة.\nأنقر مطولًا على التبويب لتغيير الفلتر.";
 "NiceFeatures.Filters.ShowBadge" = "إظهار الشارات (الفلاتر)";
@@ -65,6 +66,7 @@
 "NiceFeatures.Use.DataStorage" = "رجاءً، استخدم «%1» لتكوين المتصفح الافتراضي";
 "NiceFeatures.Browser.Header" = "عناوين URLs";
 "NiceFeatures.Browser.UseBrowser" = "فتح الروابط في المتصفح";
+"NiceFeatures.Browser.UseBrowserNotice" = "سيفتح تطبيق Nicegram الروابط في المتصفح الخارجي بدلًا من التطبيق. يجب تثبيت المتصفح المحدد.";
 "ChatFilter.Missed" = "فائتة";
 
 /*Premium*/
