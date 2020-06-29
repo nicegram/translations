@@ -31,8 +31,10 @@
 "Chat.OpenPin" = "عرض دبوس";
 "ChatFilter.Admin" = "المدير";
 "NiceFeatures.Notifications.HideNotifyAccount" = "إخفاء الحساب في الاشعارات";
+"NiceFeatures.Notifications.HideNotifyAccountNotice" = "بدلًا من «المستخدم←الحساب» سترى فقط «المستخدم» للحسابات المتعددة فقط.";
 "NiceFeatures.Notifications.Fix" = "تعطيل إعلامات الإغلاق الاضطراري للتطبيقات";
 "NiceFeatures.Filters.Header" = "الفلاتر (التبويبات)";
+"NiceFeatures.Filters.Notice" = "حدد عدد التبويبات المخصصة.\nأنقر مطولًا على التبويب لتغيير الفلتر.";
 "NiceFeatures.Filters.ShowBadge" = "إظهار الشارات (الفلاتر)";
 "NiceFeatures.UseClassicInfoUi" = "استخدام واجهة المستخدم معلومات الدردشة الكلاسيكية";
 
@@ -115,3 +117,13 @@
 /*Preview Mode*/
 "Gmod.Restricted" = "لا يمكنك إرسال رسائل في وضع المعاينة.";
 "Gmod.Unavailable" = "وضع المعاينة غير متوفر";
+"Gmod" = "وضع المعاينة";
+"Gmod.Enable" = "تمكين وضع المعاينة؟";
+"Gmod.Disable" = "تعطيل وضع المعاينة؟";
+
+"SendWithKb" = "إرسال مع زر «أدخل»";
+"NiceFeatures.ShowGmodIcon" = "إظهار أيقونة وضع المعاينة";
+"Gmod.OpenChatQ" = "فتح الدردشة؟";
+"Gmod.OpenChatNotice" = "سيتم وضع علامة \"مقروءة\"، ولكن يمكنك معاينة الدردشة بنقرة طويلة (اللمس بقوة)";
+"Gmod.OpenChatBtn" = "أجل، افتح الدردشة";
+"Gmod.DisableBtn" = "تعطيل التحذيرات";
