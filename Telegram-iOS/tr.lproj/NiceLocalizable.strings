@@ -17,6 +17,8 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "Animasyonlu Çıkartmalar";
 "NiceFeatures.useBackCam" = "Arka kamerayı kullan (Yuvarlak Videolar)";
 
+"NiceFeatures.Folders.Header" = "KLASÖRLER";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Buluta Kaydet";
 
