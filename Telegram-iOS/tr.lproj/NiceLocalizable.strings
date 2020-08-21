@@ -18,6 +18,11 @@
 "NiceFeatures.useBackCam" = "Arka kamerayı kullan (Yuvarlak Videolar)";
 
 "NiceFeatures.Folders.Header" = "KLASÖRLER";
+"NiceFeatures.Folders.TgFolders" = "Alttaki Klasörler";
+"NiceFeatures.Folders.TgFolders.Notice" = "iOS tarzı klasör listesi";
+
+"NiceFeatures.RoundVideos.Header" = "YUVARLAK VİDEOLAR";
+"NiceFeatures.RoundVideos.UseRearCamera" = "Arka kamerayla başlat";
 
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Buluta Kaydet";
