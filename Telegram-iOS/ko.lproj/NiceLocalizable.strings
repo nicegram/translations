@@ -33,3 +33,34 @@
 "NiceFeatures.Notifications.HideNotifyAccount" = "알림에서 계정 숨기기";
 "NiceFeatures.Notifications.HideNotifyAccountNotice" = "«사용자 → 계정»대신«사용자»만 표시됩니다. 멀티계정에만 해당됩니다.";
 "NiceFeatures.Notifications.Fix" = "원치 않는 알림 비활성화";
+"NiceFeatures.Notifications.FixNotice" = "음소거 된 채팅에서 알림을 받는 경우 유용합니다.\n알림, 계정 라벨 및 미디어 미리보기에서는 답장을 보낼 수 없습니다.";
+"NiceFeatures.Filters.Header" = "필터 (탭)";
+"NiceFeatures.Filters.Notice" = "사용자 정의 탭 수를 선택하세요.\n필터를 변경하려면 탭을 길게 탭하세요.";
+"NiceFeatures.Filters.ShowBadge" = "배지 표시 (필터)";
+"NiceFeatures.UseClassicInfoUi" = "기본 채팅 정보 UI 사용";
+
+/*Common*/
+"Common.ExitNow" = "종료하기";
+"Common.Later" = "나중에";
+"Common.RestartRequired" = "다시 시작 필요!";
+"NiceFeatures.Tabs.ShowNames" = "탭 이름 표시";
+"Chat.ForwardAsCopy" = "복사본으로 전달";
+
+/*Folder*/
+"Folder.DefaultName" = "폴더";
+"Folder.New" = "새 폴더";
+"Folder.Created" = "폴더가 추가 되었습니다";
+"Folder.AddToExisting" = "기존 폴더에 추가";
+"Folder.Updated" = "폴더가 업데이트 되었습니다";
+"Folder.Create" = "폴더 만들기";
+"Folder.Create.Name" = "폴더 이름";
+"Folder.Create.Placeholder" = "폴더";
+"Folder.LimitExceeded" = "죄송합니다. 사용자 지정 폴더는 3 개까지만 만들 수 있습니다.\n프리미엄 에서 더 많은 폴더를 사용할 수 있습니다.";
+"NiceFeatures.HideNumber" = "설정에서 전화 숨기기";
+
+/*NGWeb*/
+"NGWeb.Blocked" = "앱스토어 지침으로 인해 나이스그램 에서 사용할 수 없음";
+
+/*Browser*/
+/*Please, Go to «Data & Storage» to configure default browser*/
+"NiceFeatures.Use.DataStorage" = "%1 을 사용하여 기본 브라우저를 설정 하세요";
