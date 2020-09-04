@@ -14,3 +14,22 @@
 "NiceFeatures.Tabs.Header" = "탭";
 "NiceFeatures.Tabs.ShowContacts" = "연락처 탭 보이기";
 "NiceFeatures.ChatScreen.Header" = "채팅 화면";
+"NiceFeatures.ChatScreen.AnimatedStickers" = "애니메이션 스티커";
+"NiceFeatures.useBackCam" = "후면 카메라 사용 (라운드 비디오)";
+
+"NiceFeatures.Folders.Header" = "폴더";
+"NiceFeatures.Folders.TgFolders" = "폴더를 하단에 표시";
+"NiceFeatures.Folders.TgFolders.Notice" = "iOS 스타일 폴더 목록";
+
+"NiceFeatures.RoundVideos.Header" = "라운드 비디오";
+"NiceFeatures.RoundVideos.UseRearCamera" = "후면 카메라로 시작";
+
+/*Save to Cloud*/
+"Chat.SaveToCloud" = "클라우드에 저장";
+
+/*Open Pin*/
+"Chat.OpenPin" = "핀 표시";
+"ChatFilter.Admin" = "관리자";
+"NiceFeatures.Notifications.HideNotifyAccount" = "알림에서 계정 숨기기";
+"NiceFeatures.Notifications.HideNotifyAccountNotice" = "«사용자 → 계정»대신«사용자»만 표시됩니다. 멀티계정에만 해당됩니다.";
+"NiceFeatures.Notifications.Fix" = "원치 않는 알림 비활성화";
