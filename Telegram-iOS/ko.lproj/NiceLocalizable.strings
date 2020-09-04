@@ -1,0 +1,16 @@
+"AppName" = "나이스그램";
+
+/*ChatFilter*/
+"ChatFilter.Bots" = "봇";
+"ChatFilter.Channels" = "채널";
+"ChatFilter.Private" = "사용자";
+"ChatFilter.Groups" = "그룹";
+"ChatFilter.Unread" = "읽지 않음";
+"ChatFilter.Unmuted" = "음소거 해제";
+"ChatFilter.Favourites" = "즐겨찾기";
+
+/*Nice Features*/
+"NiceFeatures.Title" = "나이스그램";
+"NiceFeatures.Tabs.Header" = "탭";
+"NiceFeatures.Tabs.ShowContacts" = "연락처 탭 보이기";
+"NiceFeatures.ChatScreen.Header" = "채팅 화면";
