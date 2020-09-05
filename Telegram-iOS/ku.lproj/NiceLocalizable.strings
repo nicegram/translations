@@ -22,3 +22,14 @@
 "NiceFeatures.Folders.TgFolders.Notice" = "لیستی بوخچەی شێوازی iOS";
 
 "NiceFeatures.RoundVideos.Header" = "ڤیدیۆ بازنەییەکان";
+"NiceFeatures.RoundVideos.UseRearCamera" = "دەستپێکردن بە کامێرای پشتەوە";
+
+/*Save to Cloud*/
+"Chat.SaveToCloud" = "هەڵگرتن لە کڵاود";
+
+/*Open Pin*/
+"Chat.OpenPin" = "نیشاندانی هەڵواسراو";
+"ChatFilter.Admin" = "بەڕێوەبەر";
+"NiceFeatures.Notifications.HideNotifyAccount" = "شاردنەوەی هەژمار لە ئاگادارکردنەوە";
+"NiceFeatures.Notifications.HideNotifyAccountNotice" = "لە جیاتیی «بەکارهێنەر ← هەژمار» تەنها «بەکارهێنەر» دەبینیت. تەنها بۆ چەند هەژمارێک.";
+"NiceFeatures.Notifications.Fix" = "ناچالاککردنی ئاگادارکردنەوە نەویستراوەکان";
