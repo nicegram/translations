@@ -33,3 +33,22 @@
 "NiceFeatures.Notifications.HideNotifyAccount" = "شاردنەوەی هەژمار لە ئاگادارکردنەوە";
 "NiceFeatures.Notifications.HideNotifyAccountNotice" = "لە جیاتیی «بەکارهێنەر ← هەژمار» تەنها «بەکارهێنەر» دەبینیت. تەنها بۆ چەند هەژمارێک.";
 "NiceFeatures.Notifications.Fix" = "ناچالاککردنی ئاگادارکردنەوە نەویستراوەکان";
+"NiceFeatures.Notifications.FixNotice" = "سوودبەخشە ئەگەر ئاگادارکردنەوەت لە چاتە بێدەنگکراوەکانەوە بۆ بێت. وەڵامدانەوە لە ئاگادارکردنەوەکانەوە، لە باجی هەژمارەکانەوە، و پێشبینییەکانی میدیا بەردەستنابن.";
+"NiceFeatures.Filters.Header" = "پاڵاوتنەکان (تابەکان)";
+"NiceFeatures.Filters.Notice" = "ژمارەیەک تابی ڕاسپێردراو هەڵبژێرە.\nبۆ ماوەیەکی درێژ دەستبنێ بە تابەکە بۆ گۆڕینی پاڵاوتن.";
+"NiceFeatures.Filters.ShowBadge" = "نیشاندانی باجەکان (پاڵاونتەکان)";
+"NiceFeatures.UseClassicInfoUi" = "بەکارهێنانی زانیاریی چاتی کلاسیکی";
+
+/*Common*/
+"Common.ExitNow" = "دەرچوون ئێستا";
+"Common.Later" = "دواتر";
+"Common.RestartRequired" = "دەستپێکردنەوە پێویستە!";
+"NiceFeatures.Tabs.ShowNames" = "نیشاندانی ناوی تابەکان";
+"Chat.ForwardAsCopy" = "گواستنەوە وەک لەبەرگیراوە";
+
+/*Folder*/
+"Folder.DefaultName" = "بوخچە";
+"Folder.New" = "بوخچەی نوێ";
+"Folder.Created" = "بوخچە دروستکرا";
+"Folder.AddToExisting" = "زیادکردن بۆ بوخچەیەکی هەبوو";
+"Folder.Updated" = "بوخچە نوێکرایەوە";
