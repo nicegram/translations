@@ -85,3 +85,39 @@
 "Common.FAQ.Intro" = "تکایە تێبینیی ئەوە بکە کە پشتگیریی نایسگرام تەنها لەلایەن پەرەپێدەران و کۆمەڵگاوە دەکرێت.\n\nیەکەمجار، پرسیارە باوەکانی نایسگرام ببینە: شتی گرنگی کێشەشکاندنی هەیە و وەڵامی زۆربەی پرسیارەکان دەداتەوە.";
 "IAP.Premium.Title" = "پارە";
 "IAP.Premium.Subtitle" = "تایبەتمەندیی تایبەت کە ناتوانیت ڕەتی بکەیتەوە!";
+"IAP.Premium.Features" = "بوخچەی بێسنوور و چاتی هەڵواسراو\nوەرگێڕی پەیامی خێرا\nپاڵاوتنی پەیامی لەدەستچوو و بەڕێوەبەردنی تابەکان\nشیکردنەوەی «پەیامە نوێیەکان» لە کاتی کردنەوەی بەرنامەکە";
+"IAP.Premium.Activated" = "پارەدان چالاککرا!";
+"IAP.Common.Restore" = "گەڕاندنەوەی پارەدانەکان";
+"IAP.Common.CantPay" = "ببورە، بەڵام ناتوانیت شت بکڕیت لەبەر ئامێرەکەت یان سنوورەکانی هەژمارت.";
+"IAP.Common.ErrorFetch" = "ببورە، نەتواندرا پارەدانەکانی ئاپستۆر بهێندرێن.";
+"IAP.Common.Congrats" = "پیرۆزە!";
+"IAP.Common.ValidateError" = "ببورە، ناتوانیت پارەدانەکەت بسەلمێنییت.";
+"Premium.OnetapTranslate" = "دوگمەی وەرگێڕانی خێرا";
+"Premium.IgnoreTranslate.Title" = "زمانە پشتگوێخراوەکان";
+"Premium.IgnoreTranslate.Header" = "بەرنامەکە هەوڵ دەدات زمانی هەر پەیامێک دیاریبکات. دوگمەی وەرگێڕانی خێرا ناچالاکدەکرێت بۆ ئەو زمانانەی لە خوارەوە هەڵیدەبژێریت.";
+
+/*Manage Filters*/
+"ManageFilters.Title" = "بەڕێوەبردنی تابەکان";
+"ManageFilters.Header" = "گۆڕینی پاڵاوتنە بەردەستەکان";
+
+"Messages.Translate" = "وەرگێڕان";
+"Messages.UndoTranslate" = "گەڕاندنەوەی وەرگێڕان";
+"Messages.TranslateError" = "ببورە، وەرگێڕان بەردەست نییە.";
+
+/*NG Lab Registration Date*/
+"NGLab.RegDate.Btn" = "دەستکەوتنی بەرواری تۆمارکردن";
+"NGLab.RegDate.Title" = "بەرواری تۆمارکردن";
+"NGLab.RegDate.Notice" = "ئەمە بەروارێکی نزیککراوەیە";
+"NGLab.RegDate.MenuItem" = "تۆمارکراو";
+"NGLab.RegDate.FetchError" = "ببورە، نەتواندرا بەرواری تۆمارکردن دەستبکەوێت.";
+
+/*Backup Settings*/
+"NiceFeatures.BackupIcloud" = "هاوکاتکردنی ڕێکخستن و بوخچەکان لەگەڵ ئایکڵاود";
+"NiceFeatures.BackupSettings" = "باکەپکردنی ڕێکخستنەکان و بوخچەکان";
+"NiceFeatures.BackupSettings.Notice" = "فایلی باکەپ دروستدەکات. دەستبنێ بە فایل بۆ گەڕاندنەوە.";
+"NiceFeatures.BackupSettings.Done" = "باکەپ نێردرا بۆ پەیامە پاشەکەوتکراوەکان";
+"NiceFeatures.BackupSettings.Error" = "هەڵە ڕوویدا لە دروستکردنی باکەپ";
+
+"NiceFeatures.RestoreSettings.Confirm" = "ئایا بێگومانیت لەوەی کە دەتەوێت بوخچە و ڕێکخستنەکان بگەڕێنیتەوە لە فایلەوە؟\n⚠️ بەسەر زانیارییەکانی ئێستادا دێتەوە";
+"NiceFeatures.RestoreSettings.Done" = "بوخچە و ڕێکخستنەکان سەرکەوتووانە گەڕێندرانەوە";
+"NiceFeatures.RestoreSettings.Error" = "هەڵە ڕوویدا لە گەڕاندنەوەی ڕێکخستنەکان. فایلەکە لەوانەیە شێوابێت";
