@@ -66,3 +66,4 @@
 "NiceFeatures.Use.DataStorage" = "تکایە «%1» بەکاربێنە بۆ گۆڕینی وێبگەڕی بنەڕەت";
 "NiceFeatures.Browser.Header" = "یواڕێڵەکان";
 "NiceFeatures.Browser.UseBrowser" = "کردنەوەی بەستەرەکان لە وێبگەڕ";
+"NiceFeatures.Browser.UseBrowserNotice" = "نایسگرام لینکەکان لە وێبگەڕی دەرەکییەوە دەکاتەوە لە جیاتیی ناو بەرنامە. وێبگەڕە هەڵبژێردراوەکە دەبێت هەبێت.";
