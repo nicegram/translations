@@ -52,3 +52,17 @@
 "Folder.Created" = "بوخچە دروستکرا";
 "Folder.AddToExisting" = "زیادکردن بۆ بوخچەیەکی هەبوو";
 "Folder.Updated" = "بوخچە نوێکرایەوە";
+"Folder.Create" = "دروستکردنی بوخچە...";
+"Folder.Create.Name" = "ناوی بوخچە";
+"Folder.Create.Placeholder" = "بوخچە...";
+"Folder.LimitExceeded" = "بمبوورە، تەنها ٣ بوخچە دەتوانی بە دڵی خۆت دروستبکەیت. بوخچەی زۆرتر بە پارەیە.";
+"NiceFeatures.HideNumber" = "شاردنەوەی تەلەفۆن لە ڕێکخستنەکان";
+
+/*NGWeb*/
+"NGWeb.Blocked" = "بەردەست نییە لە نایسگرام لەبەر یاساکانی ئاپستۆر";
+
+/*Browser*/
+/*Please, Go to «Data & Storage» to configure default browser*/
+"NiceFeatures.Use.DataStorage" = "تکایە «%1» بەکاربێنە بۆ گۆڕینی وێبگەڕی بنەڕەت";
+"NiceFeatures.Browser.Header" = "یواڕێڵەکان";
+"NiceFeatures.Browser.UseBrowser" = "کردنەوەی بەستەرەکان لە وێبگەڕ";
