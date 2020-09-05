@@ -1,0 +1,24 @@
+"AppName" = "نایسگرام";
+
+/*ChatFilter*/
+"ChatFilter.Bots" = "بۆتەکان";
+"ChatFilter.Channels" = "کەناڵەکان";
+"ChatFilter.Private" = "بەکارهێنەرەکان";
+"ChatFilter.Groups" = "گروپەکان";
+"ChatFilter.Unread" = "نەخوێندراوەکان";
+"ChatFilter.Unmuted" = "بێدەنگنەکراوەکان";
+"ChatFilter.Favourites" = "دڵخوازەکان";
+
+/*Nice Features*/
+"NiceFeatures.Title" = "نایسگرام";
+"NiceFeatures.Tabs.Header" = "تابەکان";
+"NiceFeatures.Tabs.ShowContacts" = "نیشاندانی تابی کۆنتاکتەکان";
+"NiceFeatures.ChatScreen.Header" = "ڕووکاری چات";
+"NiceFeatures.ChatScreen.AnimatedStickers" = "لەزگە جووڵاوەکان";
+"NiceFeatures.useBackCam" = "بەکارهێنانی کامێرای پشتەوە (ڤیدیۆی بازنەیی)";
+
+"NiceFeatures.Folders.Header" = "بوخچەکان";
+"NiceFeatures.Folders.TgFolders" = "بوخچەکان لە خوارەوە";
+"NiceFeatures.Folders.TgFolders.Notice" = "لیستی بوخچەی شێوازی iOS";
+
+"NiceFeatures.RoundVideos.Header" = "ڤیدیۆ بازنەییەکان";
