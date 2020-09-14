@@ -94,7 +94,6 @@
 "IAP.Common.ValidateError" = "عفوًا، لا يمكن التحقق من صحة عملة الشراء الخاص بك.";
 "Premium.OnetapTranslate" = "زر الترجمة بسرعة";
 "Premium.IgnoreTranslate.Title" = "اللغات المتجاهلة";
-"Premium.IgnoreTranslate.Header" = "سيحاول التطبيق الكشف عن لغة كل رسالة، زر الترجمة السريعة سيتم تعطيله بالنسبة للغات التي تختارها أسفله.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "إدارة التبويبات";
