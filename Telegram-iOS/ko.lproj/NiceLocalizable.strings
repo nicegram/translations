@@ -94,7 +94,6 @@
 "IAP.Common.ValidateError" = "죄송합니다. 구매를 확인할 수 없습니다.";
 "Premium.OnetapTranslate" = "빠른 번역 버튼";
 "Premium.IgnoreTranslate.Title" = "제외한 언어";
-"Premium.IgnoreTranslate.Header" = "앱은 각 메시지의 언어를 감지하려고 합니다. 아래에서 선택한 언어에 대해서는 빠른 번역 버튼이 비활성화 됩니다.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "탭 관리";
