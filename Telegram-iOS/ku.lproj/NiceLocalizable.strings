@@ -94,7 +94,6 @@
 "IAP.Common.ValidateError" = "ببورە، ناتوانیت پارەدانەکەت بسەلمێنییت.";
 "Premium.OnetapTranslate" = "دوگمەی وەرگێڕانی خێرا";
 "Premium.IgnoreTranslate.Title" = "زمانە پشتگوێخراوەکان";
-"Premium.IgnoreTranslate.Header" = "بەرنامەکە هەوڵ دەدات زمانی هەر پەیامێک دیاریبکات. دوگمەی وەرگێڕانی خێرا ناچالاکدەکرێت بۆ ئەو زمانانەی لە خوارەوە هەڵیدەبژێریت.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "بەڕێوەبردنی تابەکان";
