@@ -95,7 +95,6 @@
 "IAP.Common.ValidateError" = "Üzgünüz, satın alımınız doğrulanamıyor.";
 "Premium.OnetapTranslate" = "Hızlı Çeviri butonu";
 "Premium.IgnoreTranslate.Title" = "İstenmeyen Diller";
-"Premium.IgnoreTranslate.Header" = "Uygulama her mesajın dilini tanımlamaya çalışacak. Hızlı Çeviri butonu aşağıda seçtiğiniz diller için DEVRE DIŞI olacak.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Sekmeleri Yönet";
@@ -138,3 +137,6 @@
 "Gmod.OpenChatNotice" = "Sohbet “okundu” olarak işaretlenecek, ama uzun dokunma ile sohbeti önizleyebilirsiniz (force-touch)";
 "Gmod.OpenChatBtn" = "Evet, sohbeti aç";
 "Gmod.DisableBtn" = "Uyarıları devre dışı bırak";
+
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Numaranız sadece arayüzde gizlenecek. Diğerlerinden gizlemek için, lütfen Gizlilik ayarlarını kullanın.";
+"Premium.OnetapTranslate.LowPower" = "Düşük Güçte Tanıma";
