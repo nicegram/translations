@@ -87,7 +87,6 @@
 "IAP.Common.ValidateError" = "Spiacente, non è stato possibile convalidare l'acquisto.";
 "Premium.OnetapTranslate" = "Bottone di traduzione rapida";
 "Premium.IgnoreTranslate.Title" = "Lingue ignorate";
-"Premium.IgnoreTranslate.Header" = "L'app cercherà di rilevare la lingua di ogni messaggio. Il bottone di traduzione rapida sarà DISABILITATO per le lingue che scegli qua sotto.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Gestisci tab";
