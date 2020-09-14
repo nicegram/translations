@@ -87,7 +87,6 @@
 "IAP.Common.ValidateError" = "К сожалению, подтвердить покупку не удалось.";
 "Premium.OnetapTranslate" = "Кнопка быстрого перевода";
 "Premium.IgnoreTranslate.Title" = "Игнорируемые языки";
-"Premium.IgnoreTranslate.Header" = "Приложение пытается определить язык каждого сообщения. Кнопка быстрого перевода будет ОТКЛЮЧЕНА для выбранных языков ниже.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Управление вкладками";
