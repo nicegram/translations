@@ -86,7 +86,7 @@
 "Common.FAQ.Intro" = "Please note that Nicegram Support is done by the only developer and community.\n\nFirstly, take a look at the Nicegram FAQ: it has important troubleshooting tips and answers to most questions.";
 "IAP.Premium.Title" = "Premium";
 "IAP.Premium.Subtitle" = "Unique features you can't refuse!";
-"IAP.Premium.Features" = "Unlimited Folders & Pinned Chats\nQuick message Translator\nMissed messages Filter & Tabs Management\n«New Messages» digest on App launch";
+"IAP.Premium.Features" = "Messages Translator\n\nMore features coming soon...";
 "IAP.Premium.Activated" = "Premium Activated!";
 "IAP.Common.Restore" = "Restore Purchases";
 "IAP.Common.CantPay" = "Sorry, but you can't make purchases because of your device or account restrictions.";
@@ -138,3 +138,5 @@
 "Gmod.OpenChatNotice" = "Chat will be marked as \"read\", but you can preview chat with a long-tap (force-touch)";
 "Gmod.OpenChatBtn" = "Yes, open the chat";
 "Gmod.DisableBtn" = "Disable warnings";
+
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Your number will be hidden in the UI only. To hide it from others, please use Privacy settings."
