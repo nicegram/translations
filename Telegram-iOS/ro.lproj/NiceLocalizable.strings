@@ -86,7 +86,6 @@
 "IAP.Common.ValidateError" = "Ne pare rău, nu putem valida achiziția.";
 "Premium.OnetapTranslate" = "Butonul Traducere Rapidă";
 "Premium.IgnoreTranslate.Title" = "Limbi Ignorate";
-"Premium.IgnoreTranslate.Header" = "App will try to detect language of each message. Butonul Traducere rapidă va fi DEZACTIVAT pentru toate limbile pe care le alegeți mai jos.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Administrează Ferestre";
