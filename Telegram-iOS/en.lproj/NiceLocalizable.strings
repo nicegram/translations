@@ -95,7 +95,7 @@
 "IAP.Common.ValidateError" = "Sorry, can't validate your purchase.";
 "Premium.OnetapTranslate" = "Quick Translate button";
 "Premium.IgnoreTranslate.Title" = "Ignored Languages";
-"Premium.IgnoreTranslate.Header" = "App will try to detect language of each message. Quick Translate button will be DISABLED for languages you choose below.";
+"Premium.IgnoreTranslate.Header" = "Quick Translate button will be DISABLED for languages you choose below.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Manage Tabs";
@@ -141,4 +141,4 @@
 
 "NicegramSettings.Other.hidePhoneInSettingsNotice" = "Your number will be hidden in the UI only. To hide it from others, please use Privacy settings.";
 "Premium.OnetapTranslate.LowPower" = "Recognition on Low Power";
-"Premium.OnetapTranslate.LowPower.Notice" = "App detects language of each message on your device. It's a high-prefomance task and can affect your battery life.";
+"Premium.OnetapTranslate.LowPower.Notice" = "App detects language of each message on your device. It's a high-prefomance task which can affect your battery life.";
