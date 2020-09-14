@@ -87,7 +87,6 @@
 "IAP.Common.ValidateError" = "Es tut uns leid, kann Ihren Kauf nicht validieren.";
 "Premium.OnetapTranslate" = "Schnellübersetzen-Schaltfläche";
 "Premium.IgnoreTranslate.Title" = "Ignorierte Sprachen";
-"Premium.IgnoreTranslate.Header" = "Die App wird versuchen, die Sprache jeder Nachricht zu erkennen. Die Schnellübersetzen-Schaltfläche wird für die gewünschten Sprachen unten deaktiviert.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Tabs verwalten";
