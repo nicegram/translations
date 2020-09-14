@@ -139,4 +139,4 @@
 "Gmod.OpenChatBtn" = "Yes, open the chat";
 "Gmod.DisableBtn" = "Disable warnings";
 
-"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Your number will be hidden in the UI only. To hide it from others, please use Privacy settings."
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Your number will be hidden in the UI only. To hide it from others, please use Privacy settings.";
