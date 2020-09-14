@@ -87,7 +87,6 @@
 "IAP.Common.ValidateError" = "Lo sentimos, no se puede validar tu compra.";
 "Premium.OnetapTranslate" = "Botón de traducción rápida";
 "Premium.IgnoreTranslate.Title" = "Idiomas ignorados";
-"Premium.IgnoreTranslate.Header" = "La app intentará detectar el idioma de cada mensaje. El botón de traducción rápida será desactivado para los idiomas que elijas abajo.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Administrar pestañas";
