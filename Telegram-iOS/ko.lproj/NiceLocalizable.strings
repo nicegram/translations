@@ -141,3 +141,4 @@
 
 "NicegramSettings.Other.hidePhoneInSettingsNotice" = "전화 번호는 UI에서만 숨겨집니다. 다른 사람에게 숨기려면 개인 정보 설정을 사용하세요.";
 "Premium.OnetapTranslate.LowPower" = "저전력 인식";
+"Premium.OnetapTranslate.LowPower.Notice" = "앱은 장치에서 각 메시지의 언어를 감지합니다. 배터리 수명에 영향을 미칠 수있는 고성능 작업입니다.";
