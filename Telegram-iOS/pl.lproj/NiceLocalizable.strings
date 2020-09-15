@@ -86,6 +86,7 @@
 "Common.FAQ.Intro" = "Wsparcie Nicegram jest wykonywane przez jednego programistę i społeczność.\n\nPo pierwsze, zajrzyj do FAQ: zawiera ważne wskazówki dotyczące rozwiązywania problemów i odpowiedzi na większość pytań.";
 "IAP.Premium.Title" = "Premium";
 "IAP.Premium.Subtitle" = "Unikalne funkcje, których nie można odmówić!";
+"IAP.Premium.Features" = "Tłumacz wiadomości\n\nWięcej funkcji wkrótce…";
 "IAP.Premium.Activated" = "Aktywowano wersję Premium!";
 "IAP.Common.Restore" = "Odtwórz zakupione";
 "IAP.Common.CantPay" = "Nie możesz dokonywać zakupów z powodu ograniczeń dotyczących twojego urządzenia lub konta.";
@@ -94,6 +95,7 @@
 "IAP.Common.ValidateError" = "Nie można zweryfikować twojego zakupu.";
 "Premium.OnetapTranslate" = "Przycisk Szybkie tłumaczenie";
 "Premium.IgnoreTranslate.Title" = "Ignorowane języki";
+"Premium.IgnoreTranslate.Header" = "Przycisk „Szybkie tłumaczenie” zostanie WYŁĄCZONY dla języków, które wybierzesz poniżej.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Zarządzaj zakładkami";
@@ -136,3 +138,7 @@
 "Gmod.OpenChatNotice" = "Czat zostanie oznaczony jako „przeczytany”, ale możesz wyświetlić podgląd czatu długim naciśnięciem (force-touch)";
 "Gmod.OpenChatBtn" = "Tak, otwórz czat";
 "Gmod.DisableBtn" = "Wyłącz ostrzeżenia";
+
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Twój numer zostanie ukryty tylko w interfejsie użytkownika. Aby ukryć go przed innymi, użyj ustawień prywatności.";
+"Premium.OnetapTranslate.LowPower" = "Rozpoznawanie przy niskiej mocy";
+"Premium.OnetapTranslate.LowPower.Notice" = "Aplikacja wykrywa język każdej wiadomości na urządzeniu. Jest to zadanie o wysokim stopniu zaawansowania, które może mieć wpływ na żywotność baterii.";
