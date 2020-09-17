@@ -93,6 +93,7 @@
 "IAP.Common.ErrorFetch" = "Nie mogę odebrać zakupów w App Store.";
 "IAP.Common.Congrats" = "Gratulacje!";
 "IAP.Common.ValidateError" = "Nie można zweryfikować twojego zakupu.";
+"IAP.Common.Connecting" = "Łączenie z AppStore…";
 "Premium.OnetapTranslate" = "Przycisk Szybkie tłumaczenie";
 "Premium.IgnoreTranslate.Title" = "Ignorowane języki";
 "Premium.IgnoreTranslate.Header" = "Przycisk „Szybkie tłumaczenie” zostanie WYŁĄCZONY dla języków, które wybierzesz poniżej.";
