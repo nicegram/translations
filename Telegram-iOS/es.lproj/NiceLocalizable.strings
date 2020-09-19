@@ -17,6 +17,8 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "Stickers animados";
 "NiceFeatures.useBackCam" = "Usar cámara trasera (Videomensajes)";
 
+"NiceFeatures.Folders.Header" = "CARPETAS";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Guardar en la nube";
 
@@ -85,6 +87,7 @@
 "IAP.Common.ErrorFetch" = "Lo sentimos, no se pueden recuperar las compras del App Store.";
 "IAP.Common.Congrats" = "¡Felicidades!";
 "IAP.Common.ValidateError" = "Lo sentimos, no se puede validar tu compra.";
+"IAP.Common.Connecting" = "Conectando con el App Store…";
 "Premium.OnetapTranslate" = "Botón de traducción rápida";
 "Premium.IgnoreTranslate.Title" = "Idiomas ignorados";
 
