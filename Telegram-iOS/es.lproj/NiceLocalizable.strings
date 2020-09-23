@@ -18,6 +18,7 @@
 "NiceFeatures.useBackCam" = "Usar cámara trasera (Videomensajes)";
 
 "NiceFeatures.Folders.Header" = "CARPETAS";
+"NiceFeatures.Folders.TgFolders" = "Carpetas al fondo";
 
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Guardar en la nube";
