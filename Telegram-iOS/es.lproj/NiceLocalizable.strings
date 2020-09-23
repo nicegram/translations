@@ -141,3 +141,4 @@
 "Gmod.DisableBtn" = "Desactivar advertencias";
 
 "NicegramSettings.Other.hidePhoneInSettingsNotice" = "Su número estará oculto solo en la interfaz de usuario. Para ocultarlo a los demás, por favor utilice la configuración de privacidad.";
+"Premium.OnetapTranslate.LowPower.Notice" = "La aplicación detecta el idioma de cada mensaje en su aparato. Es una tarea de alta predeterminación que puede afectar la duración de su batería.";
