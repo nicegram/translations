@@ -96,6 +96,7 @@
 "IAP.Common.Connecting" = "AppStore'a bağlanılıyor...";
 "Premium.OnetapTranslate" = "Hızlı Çeviri butonu";
 "Premium.IgnoreTranslate.Title" = "İstenmeyen Diller";
+"Premium.IgnoreTranslate.Header" = "Aşağıda seçtiğiniz diller için Hızlı Çeviri düğmesi DEVRE DIŞI bırakılacaktır.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Sekmeleri Yönet";
@@ -141,3 +142,4 @@
 
 "NicegramSettings.Other.hidePhoneInSettingsNotice" = "Numaranız sadece arayüzde gizlenecek. Diğerlerinden gizlemek için, lütfen Gizlilik ayarlarını kullanın.";
 "Premium.OnetapTranslate.LowPower" = "Düşük Güçte Tanıma";
+"Premium.OnetapTranslate.LowPower.Notice" = "Uygulama, cihazınızdaki her mesajın dilini algılar. Bu, pil ömrünüzü etkileyebilecek yüksek öncelikli bir görevdir.";
