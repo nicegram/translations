@@ -19,6 +19,10 @@
 
 "NiceFeatures.Folders.Header" = "CARPETAS";
 "NiceFeatures.Folders.TgFolders" = "Carpetas al fondo";
+"NiceFeatures.Folders.TgFolders.Notice" = "Lista de carpetas en el estilo de iOS";
+
+"NiceFeatures.RoundVideos.Header" = "VIDEOS REDONDOS";
+"NiceFeatures.RoundVideos.UseRearCamera" = "Comenzar con la cámara trasera";
 
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Guardar en la nube";
