@@ -93,6 +93,7 @@
 "IAP.Common.ErrorFetch" = "Üzgünüz, App Store satın alımları çekilemiyor.";
 "IAP.Common.Congrats" = "Tebrikler!";
 "IAP.Common.ValidateError" = "Üzgünüz, satın alımınız doğrulanamıyor.";
+"IAP.Common.Connecting" = "AppStore'a bağlanılıyor...";
 "Premium.OnetapTranslate" = "Hızlı Çeviri butonu";
 "Premium.IgnoreTranslate.Title" = "İstenmeyen Diller";
 
