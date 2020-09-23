@@ -96,6 +96,7 @@
 "IAP.Common.Connecting" = "Conectando con el App Store…";
 "Premium.OnetapTranslate" = "Botón de traducción rápida";
 "Premium.IgnoreTranslate.Title" = "Idiomas ignorados";
+"Premium.IgnoreTranslate.Header" = "El botón de traducción rápida será DESACTIVADO para los idiomas que elijas debajo.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Administrar pestañas";
@@ -138,3 +139,5 @@
 "Gmod.OpenChatNotice" = "El chat se marcará como “leído”, pero puedes obtener una vista previa del chat con un toque prolongado (3D Touch)";
 "Gmod.OpenChatBtn" = "Sí, abrir el chat";
 "Gmod.DisableBtn" = "Desactivar advertencias";
+
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Su número estará oculto solo en la interfaz de usuario. Para ocultarlo a los demás, por favor utilice la configuración de privacidad.";
