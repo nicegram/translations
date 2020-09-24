@@ -11,9 +11,9 @@
 
 /*Nice Features*/
 "NiceFeatures.Title" = "Nicegram";
-"NiceFeatures.Tabs.Header" = "التبويبات";
+"NiceFeatures.Tabs.Header" = "تبويبات";
 "NiceFeatures.Tabs.ShowContacts" = "إظهار تبويب جهات الاتصال";
-"NiceFeatures.ChatScreen.Header" = "شاشه الدردشة";
+"NiceFeatures.ChatScreen.Header" = "شاشة الدردشة";
 "NiceFeatures.ChatScreen.AnimatedStickers" = "الملصقات المتحركة";
 "NiceFeatures.useBackCam" = "استخدام الكاميرا الخلفية (فيديوهات مستديرة)";
 
