@@ -17,6 +17,13 @@
 "NiceFeatures.ChatScreen.AnimatedStickers" = "Анимированные Стикеры";
 "NiceFeatures.useBackCam" = "Задняя камера (Видеосообщения)";
 
+"NiceFeatures.Folders.Header" = "ПАПКИ";
+"NiceFeatures.Folders.TgFolders" = "Папки снизу";
+"NiceFeatures.Folders.TgFolders.Notice" = "Список папок в стиле iOS";
+
+"NiceFeatures.RoundVideos.Header" = "ВИДЕОСООБЩЕНИЯ";
+"NiceFeatures.RoundVideos.UseRearCamera" = "Запись сразу с задней камеры";
+
 /*Save to Cloud*/
 "Chat.SaveToCloud" = "Сохранить в Избранное";
 
@@ -85,8 +92,10 @@
 "IAP.Common.ErrorFetch" = "Не удалось связаться с AppStore";
 "IAP.Common.Congrats" = "Поздравляем!";
 "IAP.Common.ValidateError" = "К сожалению, подтвердить покупку не удалось.";
+"IAP.Common.Connecting" = "Подключение к AppStore...";
 "Premium.OnetapTranslate" = "Кнопка быстрого перевода";
 "Premium.IgnoreTranslate.Title" = "Игнорируемые языки";
+"Premium.IgnoreTranslate.Header" = "Кнопка быстрого перевода будет ОТКЛЮЧЕНА для выбранных ниже языков.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Управление вкладками";
@@ -129,3 +138,7 @@
 "Gmod.OpenChatNotice" = "Чат будет помечен как \"прочитанный\", но вы можете просмотреть чат, не помечая его, долгим нажатием";
 "Gmod.OpenChatBtn" = "Да, открыть чат";
 "Gmod.DisableBtn" = "Отключить предупреждения";
+
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Ваш номер будет скрыт только в интерфейсе. Чтобы скрыть его от других, пожалуйста, используйте настройки конфиденциальности.";
+"Premium.OnetapTranslate.LowPower" = "Распознавание в режиме энергосбережения";
+"Premium.OnetapTranslate.LowPower.Notice" = "Приложение определяет язык каждого сообщения с помощью вашего устройства. Это ресурсоёмкая задача, которая может повлиять на время работы аккумулятора.";
