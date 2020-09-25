@@ -93,7 +93,7 @@
 "IAP.Common.ErrorFetch" = "Lo sentimos, no se pueden recuperar las compras del App Store.";
 "IAP.Common.Congrats" = "¡Felicidades!";
 "IAP.Common.ValidateError" = "Lo sentimos, no se puede validar tu compra.";
-"IAP.Common.Connecting" = "Conectando con el App Store…";
+"IAP.Common.Connecting" = "Conectando al App Store...";
 "Premium.OnetapTranslate" = "Botón de traducción rápida";
 "Premium.IgnoreTranslate.Title" = "Idiomas ignorados";
 "Premium.IgnoreTranslate.Header" = "El botón de traducción rápida será DESACTIVADO para los idiomas que elijas debajo.";
@@ -128,7 +128,7 @@
 "Gmod.Restricted" = "No puedes enviar mensajes en modo vista previa.";
 "Gmod.Unavailable" = "Modo vista previa no disponible";
 "Gmod.Disable.Notice" = "La visibilidad de tu última vez cambiará a “%1”";
-"Gmod" = "Modo vista previa";
+"Gmod" = "Modo de vista previa";
 "Gmod.Enable" = "¿Activar modo vista previa?";
 "Gmod.Disable" = "¿Desactivar modo vista previa?";
 "Gmod.Notice" = "Tu estado en línea estará oculto para todos por la configuración de privacidad de Telegram.\nLa aplicación mostrará una advertencia si estás entrando en un chat privado.\nTu estado en línea puede ser revelado si envías o escribes CUALQUIER mensaje.";
@@ -137,7 +137,7 @@
 "NiceFeatures.ShowGmodIcon" = "Mostrar icono de modo vista previa";
 "Gmod.OpenChatQ" = "¿Abrir chat?";
 "Gmod.OpenChatNotice" = "El chat se marcará como “leído”, pero puedes obtener una vista previa del chat con un toque prolongado (3D Touch)";
-"Gmod.OpenChatBtn" = "Sí, abrir el chat";
+"Gmod.OpenChatBtn" = "Sí, abre el chat";
 "Gmod.DisableBtn" = "Deshabilitar advertencias";
 
 "NicegramSettings.Other.hidePhoneInSettingsNotice" = "Su número estará oculto solo en la interfaz de usuario. Para ocultarlo a los demás, por favor utilice la configuración de privacidad.";
