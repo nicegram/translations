@@ -94,6 +94,7 @@
 "IAP.Common.ValidateError" = "Desculpe, não é possível validar sua compra.";
 "Premium.OnetapTranslate" = "Botão de Tradução Rápida";
 "Premium.IgnoreTranslate.Title" = "Idiomas Ignorados";
+"Premium.IgnoreTranslate.Header" = "O botão De traduzir esta DESATIVADO para os idiomas que você escolher abaixo.";
 
 /*Manage Filters*/
 "ManageFilters.Title" = "Administrar Abas";
@@ -136,3 +137,6 @@
 "Gmod.OpenChatNotice" = "O chat será marcado como \"lido\", mas você pode pré-visualizar o chat com um toque longo.(3D Touch)";
 "Gmod.OpenChatBtn" = "Sim, abra o chat";
 "Gmod.DisableBtn" = "Desativar avisos";
+
+"NicegramSettings.Other.hidePhoneInSettingsNotice" = "Seu número ficará oculto apenas na interface do usuário. Para ocultá-lo de outras pessoas, use as configurações de privacidade.";
+"Premium.OnetapTranslate.LowPower.Notice" = "O aplicativo detecta o idioma de cada mensagem em seu dispositivo. É uma tarefa de alto desempenho que pode afetar a vida útil da bateria.";
