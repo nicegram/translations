@@ -144,3 +144,4 @@
 "NicegramSettings.Other.showRegDate" = "Kayıt Tarihini Göster";
 "Premium.OnetapTranslate.LowPower" = "Düşük Güçte Tanıma";
 "Premium.OnetapTranslate.LowPower.Notice" = "Uygulama, cihazınızdaki her mesajın dilini algılar. Bu, pil ömrünüzü etkileyebilecek yüksek öncelikli bir görevdir.";
+"Premium.rememberFolderOnExit" = "Çıkışta son klasörü hatırla";
