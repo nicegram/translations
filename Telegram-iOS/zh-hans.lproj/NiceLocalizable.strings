@@ -137,3 +137,6 @@
 "Gmod.OpenChatNotice" = "对话将被标记为“已读”，不过您可以长按（Force Touch）预览对话";
 "Gmod.OpenChatBtn" = "是的，打开此对话";
 "Gmod.DisableBtn" = "禁用告警提示";
+"NicegramSettings.Other.showProfileId" = "显示 ID";
+"NicegramSettings.Other.showRegDate" = "显示注册日期";
+"Premium.rememberFolderOnExit" = "退出时记住当前分组";
